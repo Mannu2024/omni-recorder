@@ -1,0 +1,9 @@
+{
+  "name": "OmniCapture Pro",
+  "description": "A high-performance screen recording web application that captures system audio, microphone, and the entire screen with local download capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
